@@ -1,16 +1,35 @@
-## Hi there 👋
+# Luljeta Hoti
 
-<!--
-**luljeta-hoti/luljeta-hoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer & Software Engineering Student**
 
-Here are some ideas to get you started:
+I'm a Computer and Software Engineering student at the University of Prishtina, interested in software development and the engineering behind practical digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building applications, working with databases, and exploring how different technologies come together to create reliable and useful software. My interests include backend development, information security, and software design.
+
+---
+
+### Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Languages | C#, PHP, JavaScript |
+| Web | HTML, CSS |
+| Databases | MySQL, SQL Server |
+| Tools | Git, GitHub, Visual Studio, VS Code |
+| Design & Platforms | Figma, WordPress |
+
+### Areas of Interest
+
+- Software Development
+- Backend Engineering
+- Database Systems
+- Information Security
+- User Experience
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/luljetahoti/)
+
+---
+
+*Focused on developing practical software solutions and strengthening my technical skills through hands-on work.*
